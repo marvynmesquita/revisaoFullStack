@@ -1,0 +1,11 @@
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Dominio/bin/Debug/net8.0/MinhaApp.Dominio.deps.json
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Dominio/bin/Debug/net8.0/MinhaApp.Dominio.dll
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Dominio/bin/Debug/net8.0/MinhaApp.Dominio.pdb
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Dominio/obj/Debug/net8.0/MinhaApp.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Dominio/obj/Debug/net8.0/MinhaApp.Dominio.AssemblyInfoInputs.cache
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Dominio/obj/Debug/net8.0/MinhaApp.Dominio.AssemblyInfo.cs
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Dominio/obj/Debug/net8.0/MinhaApp.Dominio.csproj.CoreCompileInputs.cache
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Dominio/obj/Debug/net8.0/MinhaApp.Dominio.dll
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Dominio/obj/Debug/net8.0/refint/MinhaApp.Dominio.dll
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Dominio/obj/Debug/net8.0/MinhaApp.Dominio.pdb
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Dominio/obj/Debug/net8.0/ref/MinhaApp.Dominio.dll

@@ -1,0 +1,17 @@
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Servico/bin/Debug/net8.0/MinhaApp.Servico.deps.json
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Servico/bin/Debug/net8.0/MinhaApp.Servico.dll
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Servico/bin/Debug/net8.0/MinhaApp.Servico.pdb
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Servico/bin/Debug/net8.0/MinhaApp.Dominio.dll
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Servico/bin/Debug/net8.0/MinhaApp.Repositorio.dll
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Servico/bin/Debug/net8.0/MinhaApp.Repositorio.pdb
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Servico/bin/Debug/net8.0/MinhaApp.Dominio.pdb
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Servico/obj/Debug/net8.0/MinhaApp.Servico.csproj.AssemblyReference.cache
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Servico/obj/Debug/net8.0/MinhaApp.Servico.GeneratedMSBuildEditorConfig.editorconfig
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Servico/obj/Debug/net8.0/MinhaApp.Servico.AssemblyInfoInputs.cache
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Servico/obj/Debug/net8.0/MinhaApp.Servico.AssemblyInfo.cs
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Servico/obj/Debug/net8.0/MinhaApp.Servico.csproj.CoreCompileInputs.cache
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Servico/obj/Debug/net8.0/MinhaApp.F0A93EDA.Up2Date
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Servico/obj/Debug/net8.0/MinhaApp.Servico.dll
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Servico/obj/Debug/net8.0/refint/MinhaApp.Servico.dll
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Servico/obj/Debug/net8.0/MinhaApp.Servico.pdb
+/home/marvynmesquita/Documentos/Github/MinhaApp/MinhaApp.Servico/obj/Debug/net8.0/ref/MinhaApp.Servico.dll
